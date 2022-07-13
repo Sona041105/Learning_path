@@ -1,0 +1,32 @@
+body{
+    overflow-x: hidden;
+}
+
+
+.home::before{
+    width: 100%;
+    font-size: 3px;
+}
+
+.services-container{
+    width: 100%;
+}
+
+#client-section::before{
+    width: 100%;
+}
+
+#contact-us{
+    width: 100%;
+}
+
+footer{
+    width: 100%;
+}
+#foot{
+    width: 100%;
+}
+
+.home p {
+    display: none;
+}
